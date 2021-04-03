@@ -1,0 +1,51 @@
+IDEA: Low-Cost, High-Quality Education through 
+
+(1) Standardized lesson plans and assignments
+(2) Computer-based grading
+(3) Flexible pacing
+
+-- ANY PACE -------------------------------------------------------------------
+|> Redo assignments as many times as you want (no penalty).
+|> No due dates (only recommended pacing).
+|> Drop/Add classes whenever you want (no penalty).
+
+
+-- STANDARDIZED CLASSES -------------------------------------------------------
+|> 5 Assignments per class (6 step assignments)
+|> 5 Classes at a time
+
+
+-- SOFTWARE -------------------------------------------------------------------
+|> Prose Database that automatically checks plagiarism.
+|> Assignment Builder App (All documents are standardized)
+|> Highly Simplified LMS
+|> Todo Command Line Program
+|> Stack-Overflow-Style Question App (but simpler than Piazza)
+
+
+-- SUBJECTS -------------------------------------------------------------------
+|> English
+    - Auto-grader checks for bad spelling, bad voice (i.e. first/second person,
+      fragments, run-on sentences) etc.
+|> Computer Science
+    - Only unit-testable programs.
+    - Every CS class is the exact same format. (No Surveys/Quizzes)
+    - Taught Vim from Day 1.
+
+
+-- STUDENT LIFE ---------------------------------------------------------------
+|> Uniforms Required
+
+
+-- TUITION --------------------------------------------------------------------
+|> $99/month.
+|> What you pay the first month is what you pay every month. (No surprise 
+   tuition increases)
+
+
+-- SIMULATORS -----------------------------------------------------------------
+|> Physics I Simulator
+|> Five Nights at Hamilton's (Macroeconomics)
+|> John Nash's Pizzeria Simulator (Microeconomics)
+
+

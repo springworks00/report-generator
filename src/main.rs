@@ -48,9 +48,11 @@ struct Block {
 }
 
 impl Block {
-    fn new() -> Block {
-        title: String::from(""),
-        lines: vec![],
+    fn new() -> Self {
+        Block {
+            title: String::from(""),
+            lines: vec![],
+        }
     }
     fn set_title(&mut self) {
         // three words max

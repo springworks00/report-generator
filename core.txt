@@ -1,0 +1,2 @@
+CORE: Simplified LMS App/Website that you can do all of your assignments and 
+      tests from.
