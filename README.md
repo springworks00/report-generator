@@ -1,3 +1,3 @@
-# Eduma
+# Report Generator
 
-Edumacating people since 2021.
+Generate a PDF of instructions for a task, according to a strict specification.
